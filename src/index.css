@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "Helvetica"; 
+  font-style: normal; 
+  font-weight: 500;
+  src: url("/public/assets/fonts/Helvetica-Normal.ttf") format("truetype");
+}
+
+
+/* Usage */
+.text {
+  font-family: Helvetica;
+  font-style: normal;
+}
+.text-italic {
+  font-family: Helvetica;
+  font-style: italic;
+}
+
+body {
+  overflow-x: hidden;
+  margin: 0;
+  font-family:'Helvetica';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#000000;]
+  }
+}

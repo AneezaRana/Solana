@@ -1,0 +1,39 @@
+.bg-gradient-1 {
+    background: linear-gradient(to right, #19FB9B, #8C01FA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 101px;
+}
+
+.bg-gradient-2 {
+    background: linear-gradient(260.33deg, #0047FF -13.37%, #00BCD4 109.53%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 106px;
+}
+
+.bg-gradient-3 {
+    background: linear-gradient(265.11deg, #00FFBD -5.84%, #025B8C 111.58%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 110px;
+}
+
+.custom-card {
+    width: 340px;
+    height: 335px;
+}
+
+/* Font size for smaller screens */
+@media only screen and (max-width: 768px) {
+
+    .bg-gradient-1,
+    .bg-gradient-2,
+    .bg-gradient-3 {
+        font-size: 50px;
+    }
+
+    .custom-card {
+        width: 300px;
+    }
+}
