@@ -1,0 +1,794 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 2489 >>
+stream
+BT
+/F2 20 Tf
+1 0 0 1 54.00 788.00 Tm
+(Product Roadmap: France Classifieds) Tj
+/F2 20 Tf
+1 0 0 1 54.00 763.00 Tm
+(Marketplace) Tj
+/F2 14 Tf
+1 0 0 1 54.00 706.00 Tm
+(Scope) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 676.00 Tm
+(This roadmap describes a France-focused online classifieds marketplace inspired by the) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 662.00 Tm
+(Leboncoin model, limited to two services:) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 638.00 Tm
+(1. Real Estate) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 620.00 Tm
+(2. Vehicles) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 596.00 Tm
+(The goal is to launch a trusted marketplace where private users and professional sellers) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 582.00 Tm
+(can publish, search, compare, and manage listings.) Tj
+/F2 14 Tf
+1 0 0 1 54.00 546.00 Tm
+(Product Vision) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 516.00 Tm
+(Build a simple, trusted, mobile-first marketplace for high-intent buyers, renters,) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 502.00 Tm
+(sellers, and agents in France. The platform should make it easy to discover local real) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 488.00 Tm
+(estate and vehicle offers, contact sellers safely, and manage listings with clear) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 474.00 Tm
+(pricing and verification options.) Tj
+/F2 14 Tf
+1 0 0 1 54.00 438.00 Tm
+(Target Users) Tj
+/F2 12 Tf
+1 0 0 1 54.00 400.00 Tm
+(Real Estate) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 374.00 Tm
+(- Private landlords and property owners) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 358.00 Tm
+(- Real estate agencies) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 342.00 Tm
+(- Tenants looking for rentals) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 326.00 Tm
+(- Buyers looking for homes, apartments, land, or commercial property) Tj
+/F2 12 Tf
+1 0 0 1 54.00 296.00 Tm
+(Vehicles) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 270.00 Tm
+(- Private vehicle sellers) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 254.00 Tm
+(- Professional car dealers) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 238.00 Tm
+(- Buyers looking for used or new cars, motorcycles, vans, and utility vehicles) Tj
+/F2 14 Tf
+1 0 0 1 54.00 204.00 Tm
+(Core Marketplace Capabilities) Tj
+/F2 12 Tf
+1 0 0 1 54.00 166.00 Tm
+(User Accounts) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 140.00 Tm
+(- Email, phone, and social login) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 124.00 Tm
+(- Buyer, private seller, and professional seller profiles) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 108.00 Tm
+(- Profile verification using phone and email) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 92.00 Tm
+(- Seller dashboard for listings, messages, payments, and performance) Tj
+/F1 9 Tf
+1 0 0 1 277.50 28.00 Tm
+(Page 1) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 2924 >>
+stream
+BT
+/F2 12 Tf
+1 0 0 1 54.00 780.00 Tm
+(Listing Management) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 754.00 Tm
+(- Create, edit, pause, renew, and delete listings) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 738.00 Tm
+(- Image upload with cropping and compression) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 722.00 Tm
+(- Listing preview before publication) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 706.00 Tm
+(- Draft listings) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 690.00 Tm
+(- Moderation status: pending, approved, rejected, expired) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 674.00 Tm
+(- Abuse reporting and seller blocking) Tj
+/F2 12 Tf
+1 0 0 1 54.00 644.00 Tm
+(Search and Discovery) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 618.00 Tm
+(- Location-based search across France) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 602.00 Tm
+(- Map and list views) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 586.00 Tm
+(- Saved searches) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 570.00 Tm
+(- Favorites) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 554.00 Tm
+(- Filters by category-specific attributes) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 538.00 Tm
+(- Sorting by relevance, newest, price, location, and seller type) Tj
+/F2 12 Tf
+1 0 0 1 54.00 508.00 Tm
+(Messaging and Leads) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 482.00 Tm
+(- Secure buyer-seller messaging) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 466.00 Tm
+(- Lead forms for professional sellers) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 450.00 Tm
+(- Phone reveal tracking) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 434.00 Tm
+(- Email notifications) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 418.00 Tm
+(- Optional in-app notifications) Tj
+/F2 12 Tf
+1 0 0 1 54.00 388.00 Tm
+(Trust and Safety) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 362.00 Tm
+(- Phone and email verification) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 346.00 Tm
+(- Listing moderation) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 330.00 Tm
+(- Duplicate listing detection) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 314.00 Tm
+(- Scam and spam reporting) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 298.00 Tm
+(- Professional seller badges) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 282.00 Tm
+(- Clear safety tips on listing and messaging pages) Tj
+/F2 14 Tf
+1 0 0 1 54.00 248.00 Tm
+(Service 1: Real Estate) Tj
+/F2 12 Tf
+1 0 0 1 54.00 210.00 Tm
+(MVP Features) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 184.00 Tm
+(- Property categories: rent, buy, shared housing, land, commercial property) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 168.00 Tm
+(- Property type: apartment, house, studio, office, shop, parking, land) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 152.00 Tm
+(- Required fields: price, location, surface area, number of rooms, photos,) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 138.00 Tm
+(  description, seller type) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 122.00 Tm
+(- Optional fields: bedrooms, bathrooms, furnished, energy rating, heating type,) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 108.00 Tm
+(  floor, elevator, balcony, parking, availability date) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 92.00 Tm
+(- Search filters: price range, location radius, property type, surface area, rooms,) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 78.00 Tm
+(  seller type) Tj
+/F1 9 Tf
+1 0 0 1 277.50 28.00 Tm
+(Page 2) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 2780 >>
+stream
+BT
+/F1 10.5 Tf
+1 0 0 1 64.00 788.00 Tm
+(- Map search and nearby listings) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 772.00 Tm
+(- Contact form and secure messaging) Tj
+/F2 12 Tf
+1 0 0 1 54.00 742.00 Tm
+(Post-MVP Features) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 716.00 Tm
+(- Agency storefronts) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 700.00 Tm
+(- Property alerts) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 684.00 Tm
+(- Lead scoring for professional sellers) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 668.00 Tm
+(- Document checklist for rentals) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 652.00 Tm
+(- Virtual tour links) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 636.00 Tm
+(- Energy Performance Diagnosis fields) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 620.00 Tm
+(- Neighborhood insights) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 604.00 Tm
+(- Featured real estate listings) Tj
+/F2 14 Tf
+1 0 0 1 54.00 570.00 Tm
+(Service 2: Vehicles) Tj
+/F2 12 Tf
+1 0 0 1 54.00 532.00 Tm
+(MVP Features) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 506.00 Tm
+(- Vehicle categories: cars, motorcycles, vans, utility vehicles) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 490.00 Tm
+(- Required fields: price, make, model, year, mileage, fuel type, transmission,) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 476.00 Tm
+(  location, photos, description, seller type) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 460.00 Tm
+(- Optional fields: engine power, emissions, number of doors, color, service history,) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 446.00 Tm
+(  warranty, Crit'Air class) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 430.00 Tm
+(- Search filters: price range, location radius, make, model, year, mileage, fuel,) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 416.00 Tm
+(  transmission, seller type) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 400.00 Tm
+(- Vehicle listing detail page with key specifications) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 384.00 Tm
+(- Contact form and secure messaging) Tj
+/F2 12 Tf
+1 0 0 1 54.00 354.00 Tm
+(Post-MVP Features) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 328.00 Tm
+(- Dealer storefronts) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 312.00 Tm
+(- Vehicle history report integration) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 296.00 Tm
+(- Financing lead forms) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 280.00 Tm
+(- Insurance partner offers) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 264.00 Tm
+(- Price valuation guidance) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 248.00 Tm
+(- Saved vehicle comparisons) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 232.00 Tm
+(- Featured vehicle listings) Tj
+/F2 14 Tf
+1 0 0 1 54.00 198.00 Tm
+(Roadmap Phases) Tj
+/F2 12 Tf
+1 0 0 1 54.00 160.00 Tm
+(Phase 1: Foundation and Marketplace Core) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 134.00 Tm
+(- Define product requirements and category data models) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 118.00 Tm
+(- Build responsive web application) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 102.00 Tm
+(- Implement user registration and login) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 86.00 Tm
+(- Build seller dashboard) Tj
+/F1 9 Tf
+1 0 0 1 277.50 28.00 Tm
+(Page 3) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 3043 >>
+stream
+BT
+/F1 10.5 Tf
+1 0 0 1 64.00 788.00 Tm
+(- Implement listing creation, editing, expiration, and moderation workflow) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 772.00 Tm
+(- Add image upload and optimization) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 756.00 Tm
+(- Add secure messaging) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 740.00 Tm
+(- Prepare GDPR-compliant consent, privacy, and account deletion flows) Tj
+/F2 12 Tf
+1 0 0 1 54.00 710.00 Tm
+(Phase 2: Real Estate MVP) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 684.00 Tm
+(- Launch real estate listing creation flow) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 668.00 Tm
+(- Add property-specific attributes and validations) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 652.00 Tm
+(- Build real estate search filters) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 636.00 Tm
+(- Add map-based discovery) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 620.00 Tm
+(- Add saved searches and favorites) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 604.00 Tm
+(- Build real estate listing detail pages) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 588.00 Tm
+(- Add professional agency profile support) Tj
+/F2 12 Tf
+1 0 0 1 54.00 558.00 Tm
+(Phase 3: Vehicle MVP) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 532.00 Tm
+(- Launch vehicle listing creation flow) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 516.00 Tm
+(- Add vehicle-specific attributes and validations) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 500.00 Tm
+(- Build vehicle search filters) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 484.00 Tm
+(- Add vehicle detail pages with specification sections) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 468.00 Tm
+(- Add dealer profile support) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 452.00 Tm
+(- Add saved vehicle searches and favorites) Tj
+/F2 12 Tf
+1 0 0 1 54.00 422.00 Tm
+(Phase 4: Trust, Safety, and Operations) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 396.00 Tm
+(- Add automated moderation rules) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 380.00 Tm
+(- Add manual admin review queue) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 364.00 Tm
+(- Add user reporting tools) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 348.00 Tm
+(- Add duplicate and suspicious listing detection) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 332.00 Tm
+(- Add phone verification for sellers) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 316.00 Tm
+(- Add audit logs for listing and moderation actions) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 300.00 Tm
+(- Add customer support workflows) Tj
+/F2 12 Tf
+1 0 0 1 54.00 270.00 Tm
+(Phase 5: Monetization) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 244.00 Tm
+(- Paid listing boosts) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 228.00 Tm
+(- Featured listings on search result pages) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 212.00 Tm
+(- Professional seller subscriptions) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 196.00 Tm
+(- Agency and dealer storefront packages) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 180.00 Tm
+(- Lead packages for professionals) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 164.00 Tm
+(- Optional partner offers for financing, insurance, moving, and diagnostics) Tj
+/F2 12 Tf
+1 0 0 1 54.00 134.00 Tm
+(Phase 6: Growth and Optimization) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 108.00 Tm
+(- SEO landing pages for cities, regions, property types, makes, and models) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 92.00 Tm
+(- Email alerts for saved searches) Tj
+/F1 9 Tf
+1 0 0 1 277.50 28.00 Tm
+(Page 4) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 2699 >>
+stream
+BT
+/F1 10.5 Tf
+1 0 0 1 64.00 788.00 Tm
+(- Analytics dashboards for professional sellers) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 772.00 Tm
+(- A/B testing for listing forms and contact flows) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 756.00 Tm
+(- Mobile app or progressive web app enhancements) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 740.00 Tm
+(- Recommendation engine for similar listings) Tj
+/F2 14 Tf
+1 0 0 1 54.00 706.00 Tm
+(Suggested MVP Information Architecture) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 676.00 Tm
+(- Home) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 660.00 Tm
+(- Real Estate) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 644.00 Tm
+(- Buy) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 628.00 Tm
+(- Rent) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 612.00 Tm
+(- Shared Housing) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 596.00 Tm
+(- Commercial Property) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 580.00 Tm
+(- Vehicles) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 564.00 Tm
+(- Cars) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 548.00 Tm
+(- Motorcycles) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 532.00 Tm
+(- Vans and Utility Vehicles) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 516.00 Tm
+(- Search Results) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 500.00 Tm
+(- Listing Detail) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 484.00 Tm
+(- Post an Ad) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 468.00 Tm
+(- Messages) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 452.00 Tm
+(- Favorites) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 436.00 Tm
+(- Saved Searches) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 420.00 Tm
+(- Seller Dashboard) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 404.00 Tm
+(- Professional Seller Page) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 388.00 Tm
+(- Help and Safety Center) Tj
+/F2 14 Tf
+1 0 0 1 54.00 354.00 Tm
+(Admin and Back Office) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 324.00 Tm
+(- User management) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 308.00 Tm
+(- Listing moderation) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 292.00 Tm
+(- Category and attribute management) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 276.00 Tm
+(- Reported content queue) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 260.00 Tm
+(- Payment and invoice management) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 244.00 Tm
+(- Professional seller management) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 228.00 Tm
+(- Support ticket tracking) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 212.00 Tm
+(- Analytics and fraud monitoring) Tj
+/F2 14 Tf
+1 0 0 1 54.00 178.00 Tm
+(Technology and Platform Considerations) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 148.00 Tm
+(- Mobile-first responsive web experience) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 132.00 Tm
+(- Structured category schemas for real estate and vehicles) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 116.00 Tm
+(- Search engine with geolocation support) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 100.00 Tm
+(- Image storage and CDN delivery) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 84.00 Tm
+(- Event tracking for listing views, contacts, phone reveals, and favorites) Tj
+/F1 9 Tf
+1 0 0 1 277.50 28.00 Tm
+(Page 5) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 2953 >>
+stream
+BT
+/F1 10.5 Tf
+1 0 0 1 64.00 788.00 Tm
+(- Role-based access control for users, professionals, moderators, and admins) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 772.00 Tm
+(- GDPR-compliant data handling, consent, deletion, and export) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 756.00 Tm
+(- Scalable architecture for high listing volume and search traffic) Tj
+/F2 14 Tf
+1 0 0 1 54.00 722.00 Tm
+(Compliance Notes for France) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 692.00 Tm
+(- GDPR privacy policy, cookie consent, data export, and account deletion) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 676.00 Tm
+(- Clear professional seller identification) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 660.00 Tm
+(- Real estate energy performance fields where applicable) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 644.00 Tm
+(- Transparent paid promotion labeling) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 628.00 Tm
+(- Secure handling of user communications) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 612.00 Tm
+(- Terms of use, prohibited listings, and moderation policy) Tj
+/F2 14 Tf
+1 0 0 1 54.00 578.00 Tm
+(Key Success Metrics) Tj
+/F2 12 Tf
+1 0 0 1 54.00 540.00 Tm
+(Marketplace Metrics) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 514.00 Tm
+(- Number of active listings) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 498.00 Tm
+(- Number of verified sellers) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 482.00 Tm
+(- Search-to-contact conversion rate) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 466.00 Tm
+(- Listing approval time) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 450.00 Tm
+(- Reported listing rate) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 434.00 Tm
+(- Repeat seller rate) Tj
+/F2 12 Tf
+1 0 0 1 54.00 404.00 Tm
+(Real Estate Metrics) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 378.00 Tm
+(- Real estate listing volume by city and region) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 362.00 Tm
+(- Rental and sale lead conversion rate) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 346.00 Tm
+(- Saved searches per user) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 330.00 Tm
+(- Agency subscription conversion) Tj
+/F2 12 Tf
+1 0 0 1 54.00 300.00 Tm
+(Vehicle Metrics) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 274.00 Tm
+(- Vehicle listing volume by make and model) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 258.00 Tm
+(- Dealer subscription conversion) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 242.00 Tm
+(- Contact rate per vehicle listing) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 226.00 Tm
+(- Average listing age before removal) Tj
+/F2 14 Tf
+1 0 0 1 54.00 192.00 Tm
+(Recommended MVP Launch Criteria) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 162.00 Tm
+(- Users can register, verify contact details, and manage profiles) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 146.00 Tm
+(- Sellers can publish real estate and vehicle listings with photos) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 130.00 Tm
+(- Buyers can search, filter, save, and contact sellers) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 114.00 Tm
+(- Admins can moderate listings and manage reported content) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 98.00 Tm
+(- Core GDPR and safety requirements are implemented) Tj
+/F1 10.5 Tf
+1 0 0 1 64.00 82.00 Tm
+(- Monetization foundation is ready for featured listings and professional) Tj
+/F1 9 Tf
+1 0 0 1 277.50 28.00 Tm
+(Page 6) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 705 >>
+stream
+BT
+/F1 10.5 Tf
+1 0 0 1 64.00 788.00 Tm
+(  subscriptions) Tj
+/F2 14 Tf
+1 0 0 1 54.00 754.00 Tm
+(Summary) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 724.00 Tm
+(The recommended launch path is to build a strong marketplace core first, then release) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 710.00 Tm
+(Real Estate and Vehicles as focused verticals with category-specific fields, search) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 696.00 Tm
+(filters, trust controls, and professional seller support. After the MVP is stable,) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 682.00 Tm
+(monetization, SEO growth, seller analytics, and partner integrations can be added in) Tj
+/F1 10.5 Tf
+1 0 0 1 54.00 668.00 Tm
+(phases.) Tj
+/F1 9 Tf
+1 0 0 1 277.50 28.00 Tm
+(Page 7) Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 17 0 R >>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000162 00000 n 
+0000000232 00000 n 
+0000000307 00000 n 
+0000002848 00000 n 
+0000002984 00000 n 
+0000005960 00000 n 
+0000006096 00000 n 
+0000008928 00000 n 
+0000009065 00000 n 
+0000012161 00000 n 
+0000012299 00000 n 
+0000015051 00000 n 
+0000015189 00000 n 
+0000018195 00000 n 
+0000018333 00000 n 
+0000019090 00000 n 
+trailer
+<< /Size 19 /Root 1 0 R >>
+startxref
+19228
+%%EOF
